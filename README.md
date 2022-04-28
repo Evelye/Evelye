@@ -33,19 +33,3 @@ Here are some ideas to get you started:
   <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FranzKafkaYu&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
 </p>
 
-
-## 🌎 Find me
-- wechat Official Account: search **语如鲸落**📹 ✍🏾
-- blog: click [FranzKafkaBlog](https://coderfan.net/)🏓
-## 🚀 Blog Posts
-<!-- BLOG-POST-LIST:START -->
-- [X-UI面板进阶使用：更快、更安全、更稳定](https://coderfan.net/x-ui-usage-enhancment-for-better-enhancement.html?utm_source=rss&utm_medium=rss&utm_campaign=x-ui-usage-enhancment-for-better-enhancement)
-- [Linux系统调用epoll与select使用详解](https://coderfan.net/epoll-and-select-usage-in-linux-system.html?utm_source=rss&utm_medium=rss&utm_campaign=epoll-and-select-usage-in-linux-system)
-- [一文教你如何做出好看又帅气的GitHub主页](https://coderfan.net/how-to-make-your-own-beautiful-github-overview.html?utm_source=rss&utm_medium=rss&utm_campaign=how-to-make-your-own-beautiful-github-overview)
-- [Android系统rc启动文件解析](https://coderfan.net/rc-init-files-in-android-system.html?utm_source=rss&utm_medium=rss&utm_campaign=rc-init-files-in-android-system)
-- [Android与Linux系统中线程/进程优先级设定](https://coderfan.net/android-or-linux-progress-threads-priority-set.html?utm_source=rss&utm_medium=rss&utm_campaign=android-or-linux-progress-threads-priority-set)
-<!-- BLOG-POST-LIST:END -->
-
-## 🌎 Visitors
-[![Visits Badge](https://badges.pufler.dev/visits/puf17640/git-badges)](https://badges.pufler.dev)
-
