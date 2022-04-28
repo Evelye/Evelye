@@ -28,7 +28,5 @@ Here are some ideas to get you started:
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kistens&theme=cobalt2&show_icons=true)
 ![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kistens&show_icons=true&theme=tokyonight)
-<p align='left'>
-  <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kistens&bg_color=071A2C&line_height=20&text_color=FFFFFF" alt="light-city's top langs"/>
-</p>
+
 
