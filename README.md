@@ -27,6 +27,5 @@ Here are some ideas to get you started:
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 <img alt="[VS Code" src="https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code" />
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kistens&theme=cobalt2&show_icons=true)
-![Streak stats](https://github-readme-streak-stats.herokuapp.com/?user=kistens&show_icons=true&theme=tokyonight)
 
 
